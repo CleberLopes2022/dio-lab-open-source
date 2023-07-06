@@ -8,6 +8,13 @@
 ### Gostei muito deste curso , que abrange varios topicos interessantes!
 
 ### Conhecimentos sobre linguagens de programação
+  <h3>⚙️ Tools
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></h3>
+</div>
 <table>
   <thead>
     <tr align="left">
@@ -67,3 +74,5 @@
   </tbody>
   <tfoot></tfoot>
 </table>
+
+
