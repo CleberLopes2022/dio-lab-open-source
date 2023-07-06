@@ -1,4 +1,7 @@
-# 🤙 Cleber Lopes
+<a href="https://www.dio.me/">
+<img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png">
+🤙 Cleber Lopes
+
 
 ## Sou estudande de ciências de dados e aprendendo um pouco sobre versionamento de codigo git e github.
 
